@@ -1,0 +1,25 @@
+body {
+  background: bisque;
+}
+
+h1 {
+  text-align: center;
+}
+footer {
+  text-align: center;
+  display: block;
+}
+footer a {
+  margin: 0 10px;
+  color: blue;
+  cursor: pointer;
+}
+img {
+  max-width: 95%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+p {
+  text-align: center;
+}
